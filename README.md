@@ -32,3 +32,6 @@ Unlike standard "text-to-cmd" generators, this project implements a full **Clien
 5. Upon approval, the Agent sends the command to the MCP Server via the `stdio` connection.
 6. MCP Server executes the command via `subprocess` and returns `STDOUT`/`STDERR`.
 7. Agent displays the execution's output to the user.
+
+
+<img width="1347" height="1002" alt="Screenshot From 2026-01-07 10-32-08" src="https://github.com/user-attachments/assets/29bcf769-517c-4924-b383-22dc2a406e91" />
